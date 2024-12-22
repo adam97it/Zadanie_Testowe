@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Obraz_1.2", "Obraz_1.2.csproj", "{9C6E6E90-00E6-4BD4-AEF7-42CBE59E88BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C6E6E90-00E6-4BD4-AEF7-42CBE59E88BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C6E6E90-00E6-4BD4-AEF7-42CBE59E88BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C6E6E90-00E6-4BD4-AEF7-42CBE59E88BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C6E6E90-00E6-4BD4-AEF7-42CBE59E88BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8D946C18-D810-4E73-AF17-D5245786DC1F}
+	EndGlobalSection
+EndGlobal
